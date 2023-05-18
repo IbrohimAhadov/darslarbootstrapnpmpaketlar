@@ -47,12 +47,14 @@ text-align: center;
 .ulol{
     display: flex;
     word-spacing: 10px;
+    color: rgb(231, 239, 0);
 }
 .float{
     margin: 1000px;
     display: inline;
-    color: rgb(255, 0, 0);
+    color: rgb(16, 241, 0);
     padding: 100px;
+
     
 }
 .left{
@@ -71,5 +73,9 @@ text-align: center;
     margin: 10px;
 border-radius: 6px;
 box-shadow: 35px 35px 20px -10px rgba(7, 25, 222, 0.2);
-background-color: rgb(7, 79, 103);
+background-color: rgb(15, 93, 119);
+cursor: wait;
 }
+
+
+
