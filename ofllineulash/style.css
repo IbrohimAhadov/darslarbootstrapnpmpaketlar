@@ -38,7 +38,7 @@ h3{
 text-align: center;
 } 
  tugashi*/
-.mb-3{
+/* boshlanishi.mb-3{
     display: flex;
     position: fixed;
     margin: 20px;
@@ -77,5 +77,18 @@ background-color: rgb(15, 93, 119);
 cursor: wait;
 }
 
+juda ajiyib vazifa tugashi
+ */
+ h1{
+    text-align: center;
+ }
+ .container{
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: 35px 35px 20px -10px rgba(1, 234, 90, 0.2);
+    display: block;
 
+}
 
