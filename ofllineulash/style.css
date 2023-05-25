@@ -79,11 +79,21 @@ cursor: wait;
 
 juda ajiyib vazifa tugashi
  */
+
+
+
+
+
+
+/* 
+login parol vazifani boshlanishi
+
+ 
  h1{
     text-align: center;
  }
  .container{
-    border: 1px solid black;
+    border: 1px solid rgba(1, 234, 90, 0.2);
     margin: 20px;
     padding: 20px;
     border-radius: 40px;
@@ -138,6 +148,7 @@ body{
 }
 .dark-theme #kinopka{
     background-color: #00d1a4;
+
 }
 .dark-theme #kinopka:after{
     background-color: transparent;
@@ -145,6 +156,21 @@ body{
     top: -4px;
     left: 30px;
 }
+
+login parol vazifani tugashi 
+ */
+ .left{
+    text-align: center;
+    background-color: yellow;
+    height: 50px;
+ }
+
+
+
+
+
+
+
 
 
 
