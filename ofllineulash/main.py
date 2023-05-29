@@ -36,7 +36,7 @@ t.circle(20, 180)
 t.forward(80)
 t.right(180)
 
-t.penup()
+t.penup( )
 t.forward(40)
 t.pendown()
 
@@ -54,3 +54,16 @@ t.forward(80)
 
 # Finish drawing
 done()
+
+#.....draw letter P with python turtle........!
+import turtle
+t=turtle.Turtle()
+t.penup()
+t.goto(-30,50) #centering in the screen
+t.pendown()
+t.pensize(10)
+t.pencolor("red")
+t.right(90)
+t.forward(150)
+t.goto(-30,50)
+t.circle(50,None,100)
