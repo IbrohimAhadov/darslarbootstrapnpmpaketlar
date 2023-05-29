@@ -4,13 +4,19 @@ from turtle import *
 # Create a turtle instance
 t = Turtle()
 
+
+
 # Set up the turtle window
 wn = Screen()
 wn.bgcolor("black")
 
+
+
 # Customize turtle appearance
 t.shape("turtle")
-t.color("white", "red")
+t.color("yellow", "green")
+
+
 
 # Draw the middle finger
 t.left(90)
@@ -43,6 +49,8 @@ t.right(90)
 t.forward(40)
 t.left(90)
 t.forward(80)
+
+
 
 # Finish drawing
 done()
